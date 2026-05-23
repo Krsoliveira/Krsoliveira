@@ -46,7 +46,8 @@ Trabalho com **Python**, **Java**, **JavaScript** e **Power BI**, construindo AP
 ---
 
 ## 🎓 Formação
-
+-- Estudante de Ads e Engenharia civil
+-- Técnico em PCP 
 - Bootcamp **Python AI Backend Developer** — [DIO](https://www.dio.me/)
 - Projetos práticos: POO, APIs REST, autenticação JWT, persistência de dados, interfaces web
 - Em evolução contínua em **JavaScript** e **Java** para entregar soluções **full stack** de ponta a ponta
