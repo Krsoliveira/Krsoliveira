@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack** em formação — atuo entre **backend**, **frontend** e **dados**.
 
-Trabalho com **Python**, **Java**, **JavaScript** e **Power BI**, construindo APIs REST, aplicações web e análises que apoiam decisões. Bootcamp **DIO (Python AI Backend Developer)**. Busco oportunidades **Júnior / Trainee Full Stack**.
+Trabalho com **Python**, **Java**, **JavaScript** e **Power BI**, construindo APIs REST, aplicações web e análises que apoiam decisões. Bootcamp **DIO (Python AI Backend Developer)**.
 
 ---
 
