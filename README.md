@@ -45,10 +45,11 @@ Trabalho com **Python**, **Java**, **JavaScript** e **Power BI**, construindo AP
 
 ---
 
-## 🎓 Formação
-- Estudante de Ads e Engenharia civil
+## 🎓 Formação e atuação no mercado
+- Função atual (auditor interno/desenvolvedor)
+- Estudante de ADS (formação no fim 2026) e Engenharia civil (formação no fim 2027)
 - Técnico em PCP 
-- Bootcamp **Python AI Backend Developer** — [DIO](https://www.dio.me/)
+- Bootcamps e desenvolvimento de soluções de auditoria 
 - Projetos práticos: POO, APIs REST, autenticação JWT, persistência de dados, interfaces web
 - Em evolução contínua em **JavaScript** e **Java** para entregar soluções **full stack** de ponta a ponta
 
