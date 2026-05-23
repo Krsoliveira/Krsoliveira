@@ -58,8 +58,8 @@ Trabalho com **Python**, **Java**, **JavaScript** e **Power BI**, construindo AP
 ## 📫 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/Krsoliveira)
-<!-- Substitua pelo seu LinkedIn quando tiver -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/SEU-USUARIO) -->
+[LinkedIn](https://www.linkedin.com/in/kaique-rafael-oliveira-858294166/)
+
 
 ---
 
