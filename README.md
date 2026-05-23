@@ -1,29 +1,38 @@
 # Olá, eu sou o Kaique Rafael 👋
 
-**Desenvolvedor Python** focado em **backend** e **APIs REST**.
+**Desenvolvedor Full Stack** em formação — atuo entre **backend**, **frontend** e **dados**.
 
-Construo aplicações web com **FastAPI** e **Flask**, autenticação **JWT**, bancos relacionais e interfaces simples e funcionais. Em transição de estudos (bootcamp **DIO**) para o mercado como **Dev Júnior / Trainee**.
+Trabalho com **Python**, **Java**, **JavaScript** e **Power BI**, construindo APIs REST, aplicações web e análises que apoiam decisões. Bootcamp **DIO (Python AI Backend Developer)**. Busco oportunidades **Júnior / Trainee Full Stack**.
 
 ---
 
 ## 🛠️ Stack principal
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+| Área | Ferramentas |
+|------|-------------|
+| **Backend** | Python (FastAPI, Flask), Java |
+| **Frontend** | HTML, CSS, Bootstrap, JavaScript |
+| **Dados** | Power BI, SQL |
+| **Auth & API** | JWT, REST, Pydantic, SQLAlchemy |
 
 ---
 
 ## 📌 Projetos em destaque
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [**Sistema Bancário**](https://github.com/Krsoliveira/Sistema-bancario-DIO_PRO) | API REST de banco digital: contas, PIX, transferências, rendimento | FastAPI, SQLAlchemy, JWT |
-| [**SGA Web**](https://github.com/Krsoliveira/sga-web-flask) | Sistema gerenciador de atividades (versão web) | Flask, PostgreSQL, HTML |
-| [**RAG Pessoal**](https://github.com/Krsoliveira/RAG---Pessoal-) | Chat para análise de documentos locais (sem busca na web) | Java, RAG |
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [**Sistema Bancário**](https://github.com/Krsoliveira/Sistema-bancario-DIO_PRO) | API REST + interface web: contas, PIX, transferências, rendimento | Python, FastAPI, JS |
+| [**SGA Web**](https://github.com/Krsoliveira/sga-web-flask) | Sistema gerenciador de atividades (versão web) | Python, Flask, PostgreSQL |
+| [**RAG Pessoal**](https://github.com/Krsoliveira/RAG---Pessoal-) | Chat para análise de documentos locais (privacidade dos dados) | Java, RAG |
+| [**Jogo da Forca**](https://github.com/Krsoliveira/Jogo-da-forca-web) | Jogo web interativo | Python, Flask, JavaScript |
 
 ---
 
@@ -39,7 +48,8 @@ Construo aplicações web com **FastAPI** e **Flask**, autenticação **JWT**, b
 ## 🎓 Formação
 
 - Bootcamp **Python AI Backend Developer** — [DIO](https://www.dio.me/)
-- Projetos práticos: POO, APIs REST, autenticação, persistência de dados
+- Projetos práticos: POO, APIs REST, autenticação JWT, persistência de dados, interfaces web
+- Em evolução contínua em **JavaScript** e **Java** para entregar soluções **full stack** de ponta a ponta
 
 ---
 
@@ -51,4 +61,4 @@ Construo aplicações web com **FastAPI** e **Flask**, autenticação **JWT**, b
 
 ---
 
-⭐️ Deste perfil: [**Sistema Bancário**](https://github.com/Krsoliveira/Sistema-bancario-DIO_PRO) — meu principal projeto de portfólio em Python.
+⭐️ Projeto destaque: [**Sistema Bancário**](https://github.com/Krsoliveira/Sistema-bancario-DIO_PRO) — API REST + dashboard web em Python.
