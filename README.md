@@ -1,8 +1,10 @@
-# Olá, eu sou o Kaique Rafael 👋
+# 👋 Olá, eu sou o Kaique Rafael
 
-**Desenvolvedor Full Stack** em formação — atuo entre **backend**, **frontend** e **dados**.
+🎯 **Desenvolvedor Full Stack em formação**, com foco em backend, frontend e análise de dados.
 
-Trabalho com **Python**, **Java**, **JavaScript** e **Power BI**, construindo APIs REST, aplicações web e análises que apoiam decisões. Bootcamp **DIO (Python AI Backend Developer)**.
+Tenho experiência no desenvolvimento de **APIs REST, aplicações web e soluções orientadas a dados**, utilizando Python, Java, JavaScript e Power BI para criar sistemas que apoiam a tomada de decisão.
+
+Atualmente, estou em constante evolução através de treinamentos práticos nas plataformas **DIO**, **Javanauta** e **Hashtag Treinamentos**, desenvolvendo projetos completos do backend ao frontend.
 
 ---
 
@@ -29,10 +31,10 @@ Trabalho com **Python**, **Java**, **JavaScript** e **Power BI**, construindo AP
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [**Sistema Bancário**](https://github.com/Krsoliveira/Sistema-bancario-DIO_PRO) | API REST + interface web: contas, PIX, transferências, rendimento | Python, FastAPI, JS |
-| [**SGA Web**](https://github.com/Krsoliveira/sga-web-flask) | Sistema gerenciador de atividades (versão web) | Python, Flask, PostgreSQL |
-| [**RAG Pessoal**](https://github.com/Krsoliveira/RAG---Pessoal-) | Chat para análise de documentos locais (privacidade dos dados) | Java, RAG |
-| [**Jogo da Forca**](https://github.com/Krsoliveira/Jogo-da-forca-web) | Jogo web interativo | Python, Flask, JavaScript |
+| [**Sistema Bancário**](https://github.com/Krsoliveira/Sistema-bancario-DIO_PRO) | API REST integrada com interface web: contas, PIX, transferências e rendimento | Python, FastAPI, JS |
+| [**SGA Web**](https://github.com/Krsoliveira/sga-web-flask) | Sistema web para gerenciamento de atividades | Python, Flask, PostgreSQL |
+| [**RAG Pessoal**](https://github.com/Krsoliveira/RAG---Pessoal-) | Aplicação para análise de documentos com foco em privacidade de dados | Java |
+| [**Jogo da Forca**](https://github.com/Krsoliveira/Jogo-da-forca-web) | Aplicação web interativa com interface dinâmica | Python, Flask, JavaScript |
 
 ---
 
@@ -45,22 +47,28 @@ Trabalho com **Python**, **Java**, **JavaScript** e **Power BI**, construindo AP
 
 ---
 
-## 🎓 Formação e atuação no mercado
-- Função atual (auditor interno/desenvolvedor)
-- Estudante de ADS (formação no fim 2026) e Engenharia civil (formação no fim 2027)
-- Técnico em PCP 
-- Bootcamps e desenvolvimento de soluções de auditoria 
-- Projetos práticos: POO, APIs REST, autenticação JWT, persistência de dados, interfaces web
-- Em evolução contínua em **JavaScript** e **Java** para entregar soluções **full stack** de ponta a ponta
+## 🎓 Formação e atuação
+
+- 💼 Atuação como **Auditor Interno**, com aplicação de tecnologia para análise e automação
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (previsão: 2026)
+- 🎓 Estudante de **Engenharia Civil** (previsão: 2027)
+- 📊 Técnico em **PCP (Planejamento e Controle de Produção)**
+- 🚀 Experiência prática com:
+  - Programação orientada a objetos (POO)
+  - Desenvolvimento de APIs REST
+  - Autenticação com JWT
+  - Persistência de dados (SQL)
+  - Construção de interfaces web
+
+🎯 Em evolução contínua em **Java** e **JavaScript**, com foco em desenvolvimento **Full Stack de ponta a ponta**.
 
 ---
 
 ## 📫 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/Krsoliveira)
-[LinkedIn](https://www.linkedin.com/in/kaique-rafael-oliveira-858294166/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-rafael-oliveira-858294166/)
 
 ---
 
-⭐️ Projeto destaque: [**Sistema Bancário**](https://github.com/Krsoliveira/Sistema-bancario-DIO_PRO) — API REST + dashboard web em Python.
+⭐️ **Projeto em destaque:** [Sistema Bancário](https://github.com/Krsoliveira/Sistema-bancario-DIO_PRO) — API REST integrada com dashboard web em Python.
