@@ -4,7 +4,7 @@
 
 Tenho experiência no desenvolvimento de **APIs REST, aplicações web e soluções orientadas a dados**, utilizando Python, Java, JavaScript e Power BI para criar sistemas que apoiam a tomada de decisão.
 
-Atualmente, estou em constante evolução através de treinamentos práticos nas plataformas **DIO**, **Javanauta** e **Hashtag Treinamentos**, desenvolvendo projetos completos do backend ao frontend.
+Atualmente, estou em constante evolução através de treinamentos práticos nas plataformas **DIO**, **Javanauta** e **Hashtag Treinamentos**, desenvolvendo projetos completos do backend ao frontend, além disso uso minha rotina de trabalho para aprender e desenvolver soluções (Em auditoria) usando essas tecnológias.
 
 ---
 
