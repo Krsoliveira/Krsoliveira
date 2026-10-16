@@ -2,9 +2,9 @@
 
 # KAIQUE RAFAEL
 
-**Desenvolvedor Full Stack em formação · Backend, APIs REST e dados**
+**Desenvolvedor Full Stack · APIs REST, aplicações web e dados**
 
-Auditor Interno aplicando tecnologia para automatizar análises e apoiar a tomada de decisão.
+Auditor Interno que usa código e dados para transformar processos manuais em análises reproduzíveis e auditáveis.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-rafael-oliveira-858294166/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krsoliveira)
@@ -16,70 +16,154 @@ Auditor Interno aplicando tecnologia para automatizar análises e apoiar a tomad
 
 ## Sobre
 
-Construo **APIs REST, aplicações web e soluções orientadas a dados**. No dia a dia como Auditor Interno, uso código e dados para transformar processos manuais em análises reproduzíveis e auditáveis.
+Desenvolvo sistemas web e APIs com **Python, Java e JavaScript** e seus frameworks, com atenção a segurança, testes e documentação. Minha atuação em auditoria me dá uma visão prática de **controle, rastreabilidade e qualidade de dados**, que levo para as soluções que construo.
 
-**Preferência de stack**
+<table width="100%">
+  <tr>
+    <td width="18%"><b>Backend</b></td>
+    <td width="82%">Python (FastAPI, Flask, Django) · Java (Spring Boot) · JavaScript (Node.js, Express)</td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>JavaScript (React) · HTML · CSS · Bootstrap</td>
+  </tr>
+  <tr>
+    <td><b>Visual</b></td>
+    <td>Preto e branco (PB): minimalista, alto contraste e foco em legibilidade</td>
+  </tr>
+</table>
 
-| Camada | Linguagens e frameworks de preferência |
-|--------|----------------------------------------|
-| **Backend** | **Python** (FastAPI, Flask, Django) · **Java** (Spring Boot) · **JavaScript** (Node.js) |
-| **Frontend** | **JavaScript** (React) · HTML · CSS |
-| **Visual** | Identidade em **preto e branco (PB)**: minimalista, alto contraste e foco em legibilidade |
-
-> Em projetos existentes, a stack do projeto sempre vence. Em projetos novos, escolho entre Python, Java e JavaScript conforme o problema.
+> Em projetos existentes, a stack do projeto prevalece. Em projetos novos, escolho entre Python, Java e JavaScript conforme o problema.
 
 ---
 
-## Stack
+## Tecnologias
 
-### Em uso nos meus projetos
-
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=white)
-
-### Ferramentas de conhecimento: cloud, infraestrutura e mensageria
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-000000?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-000000?style=flat-square&logo=railway&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000000?style=flat-square&logo=rabbitmq&logoColor=white)
-
-### Ambiente corporativo
-
-![SAP](https://img.shields.io/badge/SAP-000000?style=flat-square&logo=sap&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
-
-### Visão por área
-
-| Área | Ferramentas |
-|------|-------------|
-| **Backend** | Python (FastAPI, Flask), Java |
-| **Frontend** | JavaScript, HTML, CSS, Bootstrap |
-| **Dados** | SQL, PostgreSQL, Power BI |
-| **API e segurança** | REST, JWT, Pydantic, SQLAlchemy |
-| **Cloud e deploy** | GCP, Docker, Vercel, Railway, Supabase |
-| **Mensageria e cache** | RabbitMQ, Redis |
-| **Sistemas corporativos** | SAP |
+<table width="100%">
+  <tr>
+    <td width="18%"><b>Linguagens</b></td>
+    <td width="82%">
+      <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=databricks&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=flat-square&logo=sqlalchemy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pydantic-000000?style=flat-square&logo=pydantic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Dados e BI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL_Server-000000?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud e deploy</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_Cloud-000000?style=flat-square&logo=googlecloud&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Railway-000000?style=flat-square&logo=railway&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Qualidade</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pytest-000000?style=flat-square&logo=pytest&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Ferramentas de conhecimento</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SAP-000000?style=flat-square&logo=sap&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RabbitMQ-000000?style=flat-square&logo=rabbitmq&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Projetos em destaque
 
-| Projeto | O que faz | Stack |
-|---------|-----------|-------|
-| [**Sistema Bancário**](https://github.com/Krsoliveira/Sistema-bancario-DIO_PRO) | API REST com interface web: contas, PIX, transferências e rendimento | Python · FastAPI · JavaScript |
-| [**SGA Web**](https://github.com/Krsoliveira/sga-web-flask) | Sistema web para gerenciamento de atividades | Python · Flask · PostgreSQL |
-| [**RAG Pessoal**](https://github.com/Krsoliveira/RAG---Pessoal-) | Análise de documentos com foco em privacidade de dados | Java |
-| [**Jogo da Forca**](https://github.com/Krsoliveira/Jogo-da-forca-web) | Aplicação web interativa com interface dinâmica | Python · Flask · JavaScript |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Krsoliveira/Sistema-bancario-DIO_PRO">Sistema Bancário</a></h3>
+      <p>API REST com interface web para operações bancárias, com autenticação e documentação interativa.</p>
+      <ul>
+        <li>Autenticação JWT e senhas com bcrypt</li>
+        <li>Contas corrente, poupança e investimento</li>
+        <li>Depósito, saque, transferência e PIX por CPF</li>
+        <li>Rendimento mensal e extrato completo</li>
+        <li>Documentação OpenAPI (Swagger) em <code>/docs</code></li>
+      </ul>
+      <sub><b>Python · FastAPI · SQLAlchemy · Pydantic · SQLite · Bootstrap</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Krsoliveira/sga-web-flask">SGA — Gestão de Auditorias</a></h3>
+      <p>Sistema web para conduzir auditorias operacionais com fluxo de aprovação e rastreabilidade.</p>
+      <ul>
+        <li>Relatórios gerados a partir de POPs padronizados</li>
+        <li>Fluxo: elaboração, revisão, aprovação e conclusão</li>
+        <li>Perfis de acesso: Admin, Manager e Auditor</li>
+        <li>Upload de evidências e geração de PDF</li>
+        <li>Filtros por status, filial e categoria</li>
+      </ul>
+      <sub><b>Python · Flask · SQLAlchemy · ReportLab · Bootstrap</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Krsoliveira/RAG---Pessoal-">RAG Pessoal</a></h3>
+      <p>Assistente que responde perguntas em linguagem natural com base em documentos próprios (Retrieval-Augmented Generation).</p>
+      <ul>
+        <li>Upload de PDF, DOCX e TXT</li>
+        <li>OCR de documentos escaneados</li>
+        <li>Busca semântica com filtro por categoria</li>
+        <li>Ingestão assíncrona por fila</li>
+        <li>Chat com histórico por usuário</li>
+      </ul>
+      <sub><b>JavaScript · Node.js · Express · Google Cloud (Vertex AI, Document AI, Cloud Tasks)</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Krsoliveira/Jogo-da-forca-web">Jogo da Forca Web</a></h3>
+      <p>Aplicação web full stack com backend em Flask e frontend em JavaScript puro, com testes automatizados.</p>
+      <ul>
+        <li>Single-Page Application consumindo API própria</li>
+        <li>Três níveis de dificuldade e cinco categorias</li>
+        <li>Banco com mais de 250 palavras e dicas</li>
+        <li>Layout responsivo (desktop, tablet e celular)</li>
+        <li>Pronto para deploy (Waitress, Procfile, Railway)</li>
+      </ul>
+      <sub><b>Python · Flask · JavaScript · Pytest</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -95,11 +179,28 @@ Construo **APIs REST, aplicações web e soluções orientadas a dados**. No dia
 
 ## Formação e atuação
 
-- **Auditor Interno**: tecnologia aplicada à análise e à automação de processos
-- **Análise e Desenvolvimento de Sistemas** (previsão: 2026)
-- **Engenharia Civil** (previsão: 2027)
-- **Técnico em PCP** (Planejamento e Controle de Produção)
-- Treinamentos práticos: **DIO**, **Javanauta** e **Hashtag Treinamentos**
+<table width="100%">
+  <tr>
+    <td width="30%"><b>Auditor Interno</b></td>
+    <td width="70%">Tecnologia aplicada à análise e à automação de processos</td>
+  </tr>
+  <tr>
+    <td><b>Análise e Desenvolvimento de Sistemas</b></td>
+    <td>Graduação (previsão: 2026)</td>
+  </tr>
+  <tr>
+    <td><b>Engenharia Civil</b></td>
+    <td>Graduação (previsão: 2027)</td>
+  </tr>
+  <tr>
+    <td><b>Técnico em PCP</b></td>
+    <td>Planejamento e Controle de Produção</td>
+  </tr>
+  <tr>
+    <td><b>Treinamentos</b></td>
+    <td>DIO, Javanauta e Hashtag Treinamentos</td>
+  </tr>
+</table>
 
 ---
 
