@@ -54,6 +54,9 @@ Desenvolvo sistemas web e APIs com **Python, Java e JavaScript** e seus framewor
     <td>
       <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=white"/>
       <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=flat-square&logo=sqlalchemy&logoColor=white"/>
@@ -64,6 +67,8 @@ Desenvolvo sistemas web e APIs com **Python, Java e JavaScript** e seus framewor
   <tr>
     <td><b>Frontend</b></td>
     <td>
+      <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=white"/>
       <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=white"/>
@@ -76,6 +81,7 @@ Desenvolvo sistemas web e APIs com **Python, Java e JavaScript** e seus framewor
       <img src="https://img.shields.io/badge/SQL_Server-000000?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=white"/>
       <img src="https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SAP-000000?style=flat-square&logo=sap&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -94,12 +100,12 @@ Desenvolvo sistemas web e APIs com **Python, Java e JavaScript** e seus framewor
       <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=white"/>
       <img src="https://img.shields.io/badge/Pytest-000000?style=flat-square&logo=pytest&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenAPI-000000?style=flat-square&logo=openapiinitiative&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td><b>Ferramentas de conhecimento</b></td>
     <td>
-      <img src="https://img.shields.io/badge/SAP-000000?style=flat-square&logo=sap&logoColor=white"/>
       <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=white"/>
       <img src="https://img.shields.io/badge/RabbitMQ-000000?style=flat-square&logo=rabbitmq&logoColor=white"/>
     </td>
@@ -165,14 +171,90 @@ Desenvolvo sistemas web e APIs com **Python, Java e JavaScript** e seus framewor
   </tr>
 </table>
 
+
+### Projetos corporativos (código privado)
+
+Sistemas desenvolvidos no contexto de Auditoria Interna. Os repositórios são privados, então descrevo apenas arquitetura e decisões técnicas.
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Sistema de Auditoria (Java)</h3>
+      <p>Modernização de um sistema legado de auditoria, com API e interface web sobre o banco existente.</p>
+      <ul>
+        <li>API REST com Spring Boot 3 e Spring Data JPA</li>
+        <li>Autenticação JWT e Spring Security</li>
+        <li>Consultas nativas sobre banco legado SQL Server</li>
+        <li>Interface em React com Vite</li>
+      </ul>
+      <sub><b>Java 17 · Spring Boot · React · SQL Server</b></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Plataforma SIAI</h3>
+      <p>Portal de auditoria interna desenvolvido em equipe, com mais de 800 commits e fluxo de branches e pull requests.</p>
+      <ul>
+        <li>Migração planejada de Spring Boot e React para Django</li>
+        <li>Módulos de indicadores, atas e cronograma</li>
+        <li>Integração com IA generativa (Gemini)</li>
+        <li>Controle de acesso, criptografia de campos e Docker</li>
+      </ul>
+      <sub><b>Python · Django · Docker · SQL Server</b></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Auditor Pro</h3>
+      <p>Ferramenta de análises de auditoria: o auditor envia arquivos, define parâmetros e recebe tabelas e Excel para validação.</p>
+      <ul>
+        <li>ETL de relatórios SAP com regras de negócio</li>
+        <li>Pipeline: carga, validação, limpeza, transformação e exportação</li>
+        <li>Contrato OpenAPI e testes por análise</li>
+        <li>Interface em React com Vite</li>
+      </ul>
+      <sub><b>Python · Flask · Pandas · React · SAP</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Engenharia e DevSecOps
+
+Padrões que sigo em projetos novos e que aplico progressivamente nos existentes.
+
+<table width="100%">
+  <tr>
+    <td width="18%" valign="top"><b>Arquitetura</b></td>
+    <td width="82%">Camadas (rotas, services, repositories), backend stateless, contrato OpenAPI antes da implementação e decisões difíceis de reverter registradas em ADRs</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Segurança</b></td>
+    <td>Segredos fora do código, senhas com hash (bcrypt/argon2), validação de entrada e autorização por objeto no servidor, CORS restrito e rate limiting em endpoints públicos</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>APIs</b></td>
+    <td>Verbos e status HTTP semânticos, erros no formato Problem Details (RFC 9457) e compatibilidade de contrato, com versionamento quando houver quebra</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Qualidade</b></td>
+    <td>Testes de sucesso, erro e borda; todo bug vira teste; commits pequenos e reversíveis; <code>main</code> sempre pronta para deploy</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Pipeline</b></td>
+    <td>GitHub Actions com testes automatizados (como neste perfil, que gera os cards abaixo por workflow próprio)</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Dados pessoais</b></td>
+    <td>Minimização, controle de acesso e ausência de dados pessoais em logs, testes e commits, com atenção à LGPD</td>
+  </tr>
+</table>
+
 ---
 
 ## Foco atual
 
-- **Java e JavaScript** no desenvolvimento Full Stack de ponta a ponta.
+- **Java (Spring Boot) e JavaScript (React)** no desenvolvimento Full Stack de ponta a ponta.
 - **Docker** para containerizar aplicações e publicá-las em **GCP, Railway e Vercel**, com **Supabase** como backend gerenciado.
 - **Redis** (cache) e **RabbitMQ** (mensageria) para sistemas mais escaláveis.
-- **Engenharia de qualidade**: testes automatizados, CI, logs estruturados e segurança desde o início.
+- **DevSecOps**: CI com testes, varredura de segredos e dependências, logs estruturados e segurança desde o início.
 - **Integração de dados corporativos** (SAP e Power BI) com automações em Python.
 
 ---
