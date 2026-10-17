@@ -47,6 +47,7 @@ Desenvolvo sistemas web e APIs com **Python, Java e JavaScript** e seus framewor
       <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=databricks&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -62,6 +63,8 @@ Desenvolvo sistemas web e APIs com **Python, Java e JavaScript** e seus framewor
       <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=flat-square&logo=sqlalchemy&logoColor=white"/>
       <img src="https://img.shields.io/badge/Pydantic-000000?style=flat-square&logo=pydantic&logoColor=white"/>
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hibernate-000000?style=flat-square&logo=hibernate&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Security-000000?style=flat-square&logo=springsecurity&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -72,6 +75,10 @@ Desenvolvo sistemas web e APIs com **Python, Java e JavaScript** e seus framewor
       <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Material_UI-000000?style=flat-square&logo=mui&logoColor=white"/>
+      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -82,6 +89,10 @@ Desenvolvo sistemas web e APIs com **Python, Java e JavaScript** e seus framewor
       <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=white"/>
       <img src="https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=white"/>
       <img src="https://img.shields.io/badge/SAP-000000?style=flat-square&logo=sap&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Prisma-000000?style=flat-square&logo=prisma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flyway-000000?style=flat-square&logo=flyway&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Alembic-000000?style=flat-square&logo=sqlalchemy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/pgvector-000000?style=flat-square&logo=postgresql&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -101,13 +112,39 @@ Desenvolvo sistemas web e APIs com **Python, Java e JavaScript** e seus framewor
       <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=white"/>
       <img src="https://img.shields.io/badge/Pytest-000000?style=flat-square&logo=pytest&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenAPI-000000?style=flat-square&logo=openapiinitiative&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JUnit_5-000000?style=flat-square&logo=junit5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Testcontainers-000000?style=flat-square&logo=testcontainers&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vitest-000000?style=flat-square&logo=vitest&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Zod-000000?style=flat-square&logo=zod&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td><b>Ferramentas de conhecimento</b></td>
+    <td><b>IA</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vertex_AI-000000?style=flat-square&logo=googlecloud&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RAG-000000?style=flat-square&logo=databricks&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Segurança (CI)</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/CodeQL-000000?style=flat-square&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Semgrep-000000?style=flat-square&logo=semgrep&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gitleaks-000000?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Trivy-000000?style=flat-square&logo=aqua&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dependabot-000000?style=flat-square&logo=dependabot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Em estudo</b></td>
     <td>
       <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=white"/>
       <img src="https://img.shields.io/badge/RabbitMQ-000000?style=flat-square&logo=rabbitmq&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -117,6 +154,32 @@ Desenvolvo sistemas web e APIs com **Python, Java e JavaScript** e seus framewor
 ## Projetos em destaque
 
 <table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Krsoliveira/pcp-inteligente-producao">PCP Inteligente</a></h3>
+      <p>Plataforma de Planejamento e Controle da Produção com rastreabilidade do recebimento da matéria-prima ao lote do produto acabado.</p>
+      <ul>
+        <li>Clean Architecture e DDD, com domínio em Java puro</li>
+        <li>Listas técnicas (BOM) versionadas e ordens com máquina de estados</li>
+        <li>Consumo planejado × real, com desvio justificado</li>
+        <li>JWT, erros RFC 9457 e mais de 100 testes com Testcontainers</li>
+        <li>CI com CodeQL, Semgrep, Gitleaks, Trivy e OWASP; 10 ADRs</li>
+      </ul>
+      <sub><b>Java 21 · Spring Boot · React · TypeScript · PostgreSQL · Flyway · Docker</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Auxiliar de Engenharia <sup>(privado)</sup></h3>
+      <p>Plataforma para canteiros e escritórios de engenharia civil, com calculadoras de campo e gestão de obra em torno de um dossiê auditável.</p>
+      <ul>
+        <li>Motor de cálculo em Python puro, com unidades validadas (Pint)</li>
+        <li>Testes baseados em propriedades (Hypothesis)</li>
+        <li>Dossiê da obra: CRM, contratos, medições e suprimentos</li>
+        <li>Memória de cálculo em PDF e timeline auditável</li>
+        <li>Decisões registradas em ADRs</li>
+      </ul>
+      <sub><b>Python · FastAPI · SQLAlchemy · Alembic · React · TypeScript · Tailwind · PostgreSQL</b></sub>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Krsoliveira/Sistema-bancario-DIO_PRO">Sistema Bancário</a></h3>
@@ -154,23 +217,29 @@ Desenvolvo sistemas web e APIs com **Python, Java e JavaScript** e seus framewor
         <li>Ingestão assíncrona por fila</li>
         <li>Chat com histórico por usuário</li>
       </ul>
-      <sub><b>JavaScript · Node.js · Express · Google Cloud (Vertex AI, Document AI, Cloud Tasks)</b></sub>
+      <sub><b>JavaScript · Node.js · Express · Java · Google Cloud (Vertex AI, Document AI, Cloud Tasks)</b></sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Krsoliveira/Jogo-da-forca-web">Jogo da Forca Web</a></h3>
-      <p>Aplicação web full stack com backend em Flask e frontend em JavaScript puro, com testes automatizados.</p>
+      <h3>Monitor de Pagamentos <sup>(privado)</sup></h3>
+      <p>Painel de assinaturas, contas recorrentes e compras parceladas, com dados isolados por usuário no banco.</p>
       <ul>
-        <li>Single-Page Application consumindo API própria</li>
-        <li>Três níveis de dificuldade e cinco categorias</li>
-        <li>Banco com mais de 250 palavras e dicas</li>
-        <li>Layout responsivo (desktop, tablet e celular)</li>
-        <li>Pronto para deploy (Waitress, Procfile, Railway)</li>
+        <li>Next.js como BFF: valida a sessão antes de gravar</li>
+        <li>Isolamento por linha com RLS no Postgres</li>
+        <li>Autenticação com Supabase Auth</li>
+        <li>Modelo de obrigação × ocorrência, com testes (Vitest)</li>
+        <li>Arquitetura documentada em formato ADR</li>
       </ul>
-      <sub><b>Python · Flask · JavaScript · Pytest</b></sub>
+      <sub><b>TypeScript · Next.js · Supabase · PostgreSQL · Vercel</b></sub>
     </td>
   </tr>
 </table>
 
+### Outros projetos
+
+- **[Jogo da Forca Web](https://github.com/Krsoliveira/Jogo-da-forca-web)**: SPA com backend Flask e frontend em JavaScript puro, testes com Pytest e deploy na Railway.
+- **Registro de Ponto** *(privado)*: JWT, máquina de estados de marcações, banco de horas e CI. Java 21, Spring Boot e SQL Server.
+- **Health Tracker Infantil** *(privado)*: histórico de saúde infantil com Next.js 15, Prisma, Zod e Supabase Auth, com checagem de posse dos dados em toda consulta.
+- **Em construção** *(privados)*: microsserviços de e-commerce (Spring Cloud, Kafka e NestJS), análise de dados de supply chain (ETL, Prophet e Power BI), agente de IA empresarial (LangChain, pgvector e Ollama) e simulação de integração SAP.
 
 ### Projetos corporativos (código privado)
 
@@ -239,7 +308,7 @@ Padrões que sigo em projetos novos e que aplico progressivamente nos existentes
   </tr>
   <tr>
     <td valign="top"><b>Pipeline</b></td>
-    <td>GitHub Actions com testes automatizados (como neste perfil, que gera os cards abaixo por workflow próprio)</td>
+    <td>GitHub Actions com testes, CodeQL, Semgrep, Gitleaks, Trivy e OWASP Dependency-Check, como no PCP Inteligente. Este perfil também gera os cards abaixo por workflow próprio</td>
   </tr>
   <tr>
     <td valign="top"><b>Dados pessoais</b></td>
@@ -251,10 +320,11 @@ Padrões que sigo em projetos novos e que aplico progressivamente nos existentes
 
 ## Foco atual
 
-- **Java (Spring Boot) e JavaScript (React)** no desenvolvimento Full Stack de ponta a ponta.
+- **Java (Spring Boot) e TypeScript (React, Next.js)** no desenvolvimento Full Stack de ponta a ponta, com Clean Architecture e DDD.
 - **Docker** para containerizar aplicações e publicá-las em **GCP, Railway e Vercel**, com **Supabase** como backend gerenciado.
-- **Redis** (cache) e **RabbitMQ** (mensageria) para sistemas mais escaláveis.
-- **DevSecOps**: CI com testes, varredura de segredos e dependências, logs estruturados e segurança desde o início.
+- **Redis** (cache), **RabbitMQ** e **Kafka** (mensageria) e **Kubernetes** para sistemas distribuídos e escaláveis.
+- **IA aplicada**: RAG, busca vetorial (pgvector) e modelos locais com Ollama.
+- **DevSecOps**: CI com testes, SAST (CodeQL, Semgrep), varredura de segredos (Gitleaks), de dependências (OWASP, Dependabot) e de containers (Trivy), com segurança desde o início.
 - **Integração de dados corporativos** (SAP e Power BI) com automações em Python.
 
 ---
