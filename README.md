@@ -9,6 +9,7 @@ Auditor Interno que usa código e dados para transformar processos manuais em an
 ![Aberto a oportunidades](https://img.shields.io/badge/ABERTO_A_OPORTUNIDADES-000000?style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-rafael-oliveira-858294166/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-gray-nu-53.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krsoliveira)
 [![E-mail](https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiquerafael118@gmail.com)
 
