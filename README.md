@@ -35,6 +35,8 @@ Desenvolvo sistemas web e APIs com **Python, Java e JavaScript** e seus framewor
 
 > Em projetos existentes, a stack do projeto prevalece. Em projetos novos, escolho entre Python, Java e JavaScript conforme o problema.
 
+> **Sobre meus estudos:** não estudo por copiar e colar. Antes de seguir adiante, busco entender a fundo o que está sendo proposto, o porquê de cada decisão e como isso funciona por baixo.
+
 ---
 
 ## Tecnologias
