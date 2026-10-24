@@ -46,7 +46,7 @@ Desenvolvo sistemas web e APIs com **Java, Python e JavaScript/TypeScript**, com
 
 <div align="center">
 <a href="https://github.com/Krsoliveira/pcp-inteligente-producao">
-  <img src="https://raw.githubusercontent.com/Krsoliveira/pcp-inteligente-producao/main/docs/imagens/dashboard.png" alt="Dashboard do PCP Inteligente com indicadores de produção" width="760"/>
+  <img src="https://raw.githubusercontent.com/Krsoliveira/pcp-inteligente-producao/main/docs/imagens/dashboard-2026-10.png" alt="Dashboard do PCP Inteligente com indicadores de produção" width="760"/>
 </a>
 </div>
 
